@@ -30,5 +30,3 @@ Thanks for stopping by 🌱
 ![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
 
 ![Profile views](https://counter.kuber.studio/M0ssi-P/flip-clock/count.svg)
-
-![Profile counter](https://count.getloli.com/@M0ssi-P)
