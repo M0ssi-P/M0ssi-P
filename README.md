@@ -1,6 +1,6 @@
 # Hi, I’m Pacifique 👋🏾 👨🏾‍💻
 
-I'm a self-taught software engineer from Australia with a passion for building scalable apps, community and creating technology that elavate people. I've been actively working in the dev space and expanding my knowledge for over 6 years. Some technologies I enjoy working with include ReactJS, NextJS, Jamstack(Javascript, API + Markup) and Jetpack Compose (both mobile, desktop and multiplatform)
+I'm a software engineer and web developer from Australia with a passion for building scalable apps, community and creating technology that elavate people. I've been actively working in the dev space and expanding my knowledge for over 6 years. Some technologies I enjoy working with include ReactJS, NextJS, Jamstack(Javascript, API + Markup) and Jetpack Compose (both mobile, desktop and multiplatform)
 
 Some of my open-source projects are pinned below — feel free to dive in and reach out if you want to collaborate!
 
@@ -29,4 +29,6 @@ Thanks for stopping by 🌱
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
 
-![Profile counter](https://moe-counter.glitch.me/get/@M0ssi-P)
+![Profile views](https://counter.kuber.studio/M0ssi-P/flip-clock/count.svg)
+
+![Profile counter](https://count.getloli.com/@M0ssi-P)
